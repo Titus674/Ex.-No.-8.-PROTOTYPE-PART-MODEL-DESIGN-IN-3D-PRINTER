@@ -1,6 +1,6 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No.3   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 23-11-2025
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -46,7 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/b6c5566e-b841-40da-8966-be80a2bf3c4e)
+
+<img width="1919" height="1140" alt="image" src="https://github.com/user-attachments/assets/676aa401-1123-4a27-93ce-7e773b330c42" />
+<img width="1918" height="1135" alt="image" src="https://github.com/user-attachments/assets/f561f3a8-5af0-4b3b-ab62-08571388dd2d" />
+
 
 ### Name : Titus Ratna Kumar Karivella 
 ### Register number : 212224230292
