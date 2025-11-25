@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/user-attachments/assets/b6c5566e-b841-40da-8966-be80a2bf3c4e)
 
-### Name:
-### Register Number:
+### Name : Titus Ratna Kumar Karivella 
+### Register number : 212224230292
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
